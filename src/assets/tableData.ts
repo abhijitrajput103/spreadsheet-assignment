@@ -1,4 +1,4 @@
-import { Column } from "react-table";
+import type { Column } from "react-table";
 
 export const data = [
   {

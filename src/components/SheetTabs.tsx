@@ -1,5 +1,3 @@
-import React from "react";
-
 export default function SheetTabs() {
   return (
     <div className="flex gap-3 mt-4 text-sm text-gray-600">

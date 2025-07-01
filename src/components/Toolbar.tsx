@@ -1,4 +1,3 @@
-import React from "react";
 import { EyeOff, Filter, ChevronsUpDown, LayoutGrid, List } from "lucide-react";
 
 export default function Toolbar() {

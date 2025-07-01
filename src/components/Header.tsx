@@ -1,5 +1,4 @@
 // File: src/components/Header.tsx
-import React from "react";
 import {Link2, RefreshCcw, Bell } from "lucide-react";
 
 export default function Header() {
